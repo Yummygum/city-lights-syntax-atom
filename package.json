@@ -1,0 +1,23 @@
+{
+  "name": "city-lights-syntax",
+  "description": "The City Lights Syntax Theme is a gorgeous dark syntax theme designed with focus in mind.",
+  "repository": "https://github.com/Yummygum/city-lights-syntax-atom",
+  "version": "1.0.0",
+  "theme": "syntax",
+  "author": "Noud Adrichem",
+  "keywords": [
+    "syntax",
+    "theme",
+    "citylights",
+    "city lights",
+    "darktheme",
+    "dark theme",
+    "city-lights-ui",
+    "city-lights-syntax",
+    "city-lights-icons"
+  ],
+  "license": "CC-BY-NC-ND",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
