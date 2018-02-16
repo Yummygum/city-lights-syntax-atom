@@ -93,6 +93,22 @@ atom-text-editor {
   .selection .region {
     background-color: @syntax-selection-color;
   }
+
+  &::shadow {
+    .horizontal-scrollbar,
+    .vertical-scrollbar {
+      opacity: .3;
+      transition: opacity 250ms;
+    }
+
+    .horizontal-scrollbar:hover {
+      opacity: 1;
+    }
+
+    .vertical-scrollbar:hover {
+      opacity: 1;
+    }
+  }
 }
 
 // Syntax styles
